@@ -97,7 +97,7 @@
 | 项目名称 | 描述 | 类型 | Stars | 链接 | Demo | Paper |
 |---|---|---|---|---|---|---|
 | STORM | 斯坦福开源知识整理系统，通过多视角问题生成和检索生成带引用报告 | agent | <!--stars:stanford-oval/storm-->⭐&nbsp;31.6k<!--/stars--> | [GitHub](https://github.com/stanford-oval/storm) | [Demo](https://storm.genie.stanford.edu) | [NAACL 2024](https://modelscope.cn/papers/2402.14207/) |
-| paperseek | 面向研究者的文献发现工具，支持自然语言检索、自动迭代查询、扩展候选论文 | agent/skill | <!--stars:MingfengHong/paperseek-->⭐&nbsp;0<!--/stars--> | [GitHub](https://github.com/MingfengHong/paperseek) | [魔搭创空间](https://modelscope.cn/studios/HongMingfeng/PaperSeek) | - |
+| paperseek | 面向研究者的文献发现工具，支持自然语言检索、自动迭代查询、扩展候选论文 | agent/skill | <!--stars:paperseek/paperseek-->⭐&nbsp;0<!--/stars--> | [GitHub](https://github.com/paperseek/paperseek) | [魔搭创空间](https://modelscope.cn/studios/HongMingfeng/PaperSeek) | - |
 | OpenAlex Search Skill | OpenAlex 是开放的全球学术图谱，覆盖论文、作者、机构、期刊和引用关系。该 Codex skill 将 OpenAlex works 检索封装为可复用命令行流程。| skill | <!--stars:XiaokunDuan/openalex_search-->⭐&nbsp;2<!--/stars--> | [GitHub](https://github.com/XiaokunDuan/openalex_search) | [Skill](https://github.com/XiaokunDuan/openalex_search/blob/main/openalex_search/SKILL.md) | - |
 | arXiv Browser Research Skill | 面向 Codex/browser-use 的 arXiv 浏览器兜底检索 skill，在 OpenAlex、Semantic Scholar 或 arXiv API 限流/结果不完整时，用受限域名浏览器流程抽取标题、作者、摘要、arXiv ID 和 PDF 链接。 | skill | <!--stars:pikaqiu2333/arxiv-browser-research-->⭐&nbsp;0<!--/stars--> | [GitHub](https://github.com/pikaqiu2333/arxiv-browser-research) | [Skill](https://github.com/pikaqiu2333/arxiv-browser-research/blob/main/SKILL.md) | - |
 | Lune | 通过 MCP 提供顶会 Paper 的 agentic search 能力，支持学术文献与科研最佳实践的 grounding | agent/tool | <!--stars:RetrogradeLabs/lune-mcp-server-->⭐&nbsp;4<!--/stars--> | [GitHub](https://github.com/RetrogradeLabs/lune-mcp-server) | [Demo](https://luneresearch.com) | - |
@@ -200,7 +200,7 @@
 | DIY 你的蛋白质 — AlphaFold3 推理 | 用 AlphaFold3 在魔搭上做蛋白质结构推理的实操教程 | [魔搭研习社](https://modelscope.cn/learn/5526) | [创空间](https://modelscope.cn/studios/Z_biosketch/af3_infer_test/summary) |
 | AI Ready 遥感：从开放数据到开源生态实践 | AI Ready 数据简介，以及 ModelScope 如何提升遥感研究的 AI 就绪程度 | [魔搭研习社](https://modelscope.cn/learn/434003) | - |
 | Open Source GeoAI Practise with ModelScope | APGARSS 教程合集：基于 ModelScope 的开源地理人工智能实践 | [魔搭研习社](https://modelscope.cn/learn/434198) | - |
-| [PaperSeek - 使用自然语言检索文献](https://github.com/MingfengHong/paperseek) | 用自然语言进行文献检索、自动扩展查询并生成候选论文列表的实践流程 | [魔搭研习社](https://modelscope.cn/learn/434408) | [创空间](https://modelscope.cn/studios/HongMingfeng/PaperSeek) |
+| [PaperSeek - 使用自然语言检索文献](https://github.com/paperseek/paperseek) | 用自然语言进行文献检索、自动扩展查询并生成候选论文列表的实践流程 | [魔搭研习社](https://modelscope.cn/learn/434408) | [创空间](https://modelscope.cn/studios/HongMingfeng/PaperSeek) |
 
 ---
 
